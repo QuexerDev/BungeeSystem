@@ -1,0 +1,5 @@
+name: ServerAPI-BungeeCord
+version: 1.0
+main: me.ServerAPI.main.Main
+commands:
+  rank:
